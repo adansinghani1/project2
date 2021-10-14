@@ -4,4 +4,3 @@ python-dotenv
 flask
 spotify
 genius
-os
