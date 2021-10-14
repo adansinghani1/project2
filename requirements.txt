@@ -1,6 +1,4 @@
 Flask
 requests
 python-dotenv
-flask
-spotify
-genius
+
